@@ -4,7 +4,7 @@
   "description": "This is an api that is a created for product app managing by admin and users",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "author": "Mudasiru Rasheed",
   "license": "ISC",
